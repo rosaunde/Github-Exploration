@@ -1,0 +1,11 @@
+Hey! My project is written in python. I used the requests package to acquire the JSON data and 
+Matplotlib to visualise the data.
+
+Any github user that follows at least one user with a few repositories and followers should be ideal 
+users to put into the program.
+
+The commits per year part doesn't quite work as for some reason the api only lists events from 2017, and I 
+couldn't figure out a way to get it to display more. The pie chart of number of users you follow that follow 
+you back works just fine as long as you have followers and are following others. Otherwise it displays nothing. 
+
+Thanks!
